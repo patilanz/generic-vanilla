@@ -1,0 +1,11 @@
+{
+	"appId": "com.generic.app",
+	"appName": "generic",
+	"bundledWebRuntime": false,
+	"webDir": "www",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	}
+}

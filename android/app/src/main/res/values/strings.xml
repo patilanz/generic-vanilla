@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">generic</string>
+    <string name="title_activity_main">generic</string>
+    <string name="package_name">com.generic.app</string>
+    <string name="custom_url_scheme">com.generic.app</string>
+</resources>
